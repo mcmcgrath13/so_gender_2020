@@ -22,7 +22,7 @@ DATA_PATH="survey_results_public.csv"
 md"""
 R had the highest share of respondents identifying as a gender minority with 12.68%, and Julia has the **third most with 9.25%**.
 
-9.25% of Julia users identifying as a gender minorty is notably higher than the Julia Developer Survey found (5%), though lower than the Google Analytics estimates of traffic to julialang.org (~20%).
+9.25% of Julia users identifying as a gender minority is notably higher than the Julia Developer Survey found (5%), though lower than the Google Analytics estimates of traffic to julialang.org (~20%).
 """
 
 # ╔═╡ 4789d7b1-7dd4-4b6b-8111-c96f010cf213
