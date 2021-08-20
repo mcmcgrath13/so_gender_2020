@@ -11,7 +11,7 @@ using DataFrames, CSV, VegaLite
 md"""
 # Stack Overflow Developer Survey Results
 
-Each year, Stack Overflow conducts a survey of its users on a variety of aspects.  Two of these aspects are gender identity and the programming languages used.  Given this data, we can look at how the gender diversity of various languages compare to each other.
+Each year, Stack Overflow conducts a [survey](https://insights.stackoverflow.com/survey/) of its users on a variety of aspects.  Two of these aspects are gender identity and the programming languages used.  Given this data, we can look at how the gender diversity of various languages compare to each other.
 """
 
 # ╔═╡ 92ca8227-beff-44e6-ad57-6204b88abe45
